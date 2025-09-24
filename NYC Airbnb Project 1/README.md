@@ -11,6 +11,13 @@ Project uses GoogleSheets as the tool for analysis.
 
 ---
 
+## Analysis
+The Manhattan vacation rental market analysis revealed that 1-bedroom properties are the most popular among Airbnb listings, suggesting strong demand from solo travelers and couples. Lower East Side, Hell’s Kitchen, and Harlem emerged as the neighborhoods with the highest number of reviews, indicating consistent guest interest and engagement. Revenue analysis showed that the top-earning listing generated $29,940 per month, providing a benchmark for potential high-performing investments. By combining insights from property size, neighborhood popularity, and revenue, investors can make informed decisions on which properties to acquire. Overall, the data suggests that focusing on 1-bedroom units in high-demand neighborhoods with competitive amenities can maximize both occupancy and revenue.
+
+<img src="Reviews_vs_Neighborhood.png" />
+
+---
+
 ## 📊 Conclusions  
 
 1. **Popular Property Size**  
@@ -24,6 +31,8 @@ Project uses GoogleSheets as the tool for analysis.
 
 3. **Revenue Insights**  
    - The **highest-earning listing (ID: 49946551)** generated approximately **$29,940 per month**, serving as a benchmark for top-tier performance.  
+
+<img src="Summary.png" />
 
 ---
 
